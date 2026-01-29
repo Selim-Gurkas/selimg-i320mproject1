@@ -1,3 +1,4 @@
 # my-first-repo
 ## Updated Section
-This text was added on Github
+This text was added on Github by Selim Gurkas
+
